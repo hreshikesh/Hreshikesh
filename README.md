@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hreshikesh&theme=dark" alt="GitHub Streak"/>
+  [![GitHub Streak](https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 <hr/>
