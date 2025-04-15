@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">👋</h1>
 <p align="center">
   <a href="https://github.com/hreshikesh/Hreshikesh">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;I+am+Hreshikesha+K;I+am+a+Java+Web+Developer;😄">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Hreshikesha+K;Welcome+to+my+Github+page;I+am+Hreshikesha+K;I+am+a+Java+Web+Developer;😄">
   </a>
 </p>
 
