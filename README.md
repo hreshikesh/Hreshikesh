@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="300" width="3000"/>
 
 
 
-<h1 align="center">👋</h1>
+
+<h1 align="center"></h1>
 <p align="center">
   <a href="https://github.com/hreshikesh/Hreshikesh">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Hreshikesha+K;Welcome+to+my+Github+page;I+am+Hreshikesha+K;I+am+a+Java+Web+Developer;😄">
