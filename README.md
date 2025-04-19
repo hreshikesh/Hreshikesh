@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh" alt="GitHub Streak" /></a>
 </p>
 
 <hr/>
