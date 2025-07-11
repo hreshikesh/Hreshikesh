@@ -29,7 +29,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hreshikesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh" alt="GitHub Streak" /></a>
 </div>
 <br>
 
