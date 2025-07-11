@@ -28,6 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hreshikesh&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hreshikesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </div>
 <br>
 
