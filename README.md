@@ -1,43 +1,42 @@
 <h1 align="center">Hi 👋, I'm Hreshikesha K</h1>
 <p align="center">
   <a href="https://github.com/hreshikesh">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Hreshikesha+K;Welcome+to+my+Github+page;I+am+Hreshikesha+K;I+am+a+Java+Web+Developer;😄" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Iam+Hreshikesha+K;Welcome+to+my+Github+page;I+am+a+Java+Web+Developer;😄" />
   </a>
 </p>
 
-<p align="right">
-  <img width="400" height="300" src="https://camo.githubusercontent.com/056e7476d3ce5dbab75be87c57ea62437aff5a218bccf8d0c4df0adaffc46e87/687474..." />
+---
+
+### 💻 My Tech Stack
+
+<!-- SkillIcons.dev (only supported icons) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,git,mysql,spring" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hreshikesh&label=Profile%20views&color=0e75b6&style=flat" alt="hreshikesh" />
+<!-- Manually added icons for unsupported tech -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JSP-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
+  <img src="https://img.shields.io/badge/Servlet-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" alt="Servlet" />
+  <img src="https://img.shields.io/badge/JDBC-%23232F3E.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/Lombok-%23A80000.svg?style=for-the-badge&logo=java&logoColor=white" alt="Lombok" />
+  <img src="https://img.shields.io/badge/SonarQube-%2300C7B7.svg?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/JPA-%2335495E.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
 </p>
 
 ---
 
-- 🔭 I’m currently working as a **Software Intern at Xworkz**
-- 📫 Reach me at **ailhreshikesh@gmail.com**
-
----
-
-### 🌐 Connect with me:
+### 🔗 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hreshikesha-k-200689254/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/___rishi__kesh___ail" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-### 💻 Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,spring,jpa,lombok,jdbc,servlet,jsp,git,sonarqube&theme=light&perline=7&titles=true" alt="Tech Stack" />
+  <a href="mailto:ailhreshikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -45,14 +44,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hreshikesh&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hreshikesh&show_icons=true&theme=dark" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hreshikesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreshikesh&layout=compact&theme=dark" />
+</p>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hreshikesh&theme=dark" />
+</p>
