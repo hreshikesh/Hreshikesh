@@ -24,9 +24,8 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  <a href="https://www.bootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/17101/course_17101_image.jpg" alt="bootstrap" width="40" height="40"/>
-  <a href="https://www.bootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/17101/course_17101_image.jpg" alt="bootstrap" width="40" height="40"/>
-  <a href="https://www.tomcat.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myqnap.org%2Fproduct%2Fapache-tomcat-10%2F&psig=AOvVaw0TgsMtPiUhhq711NjbyFnk&ust=1753879025406000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjS3NaK4o4DFQAAAAAdAAAAABAE" alt="tomcat" width="40" height="40"/>
-   <a href="https://www.servlets.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbikashdubey42.medium.com%2Fintroduction-to-servlet-jsp-8c0e0228d254&psig=AOvVaw0qFXPbBfucpbpPADgP6Z2s&ust=1753879133548000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIj424iL4o4DFQAAAAAdAAAAABAE" alt="tomcat" width="40" height="40"/>
+ 
+  
 
   
  
