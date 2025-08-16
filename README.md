@@ -3,7 +3,34 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+I'am+Hreshikesha+K;Welcome+to+my+Github+page;I+am+Hreshikesha+K;I+am+a+Java+Web+Developer;😄"> 
 </div>
 
-👋 About Me<br><br>🔭 I’m currently working as a Software Intern at X-workz, specializing in Enterprise Web Application Development.  <br>📫 Reach me at: [ailhreshikesh@gmail.com](mailto:ailhreshikesh@gmail.com)<br><br>Portfolio https://hreshikesh.github.io/Portfolio/  <br><br>----------<br><br> 🚀 Tech Summary<br>👨‍💻 Java & Backend<br> ✔️ Proficient in Core Java – OOPs, Collections, Streams, Lambda Expressions<br> ✔️ Strong understanding of JDBC – Database connectivity, CRUD operations<br> ✔️ Experienced in Servlets & JSP – Implementing MVC architecture using DTO, Service, Repository layers<br> ✔️ Working knowledge of Spring Framework – Container creation, Bean initialization & component configuration<br> ✔️ Hands-on with JPA (Java Persistence API) – Connecting to DB & performing CRUD with annotations<br> ✔️ Familiar with Lombok– Reducing boilerplate code with annotations<br><br>🌐 Frontend Development<br> ✔️ Good grasp of HTML, CSS, JavaScript – Page structure, styling, and form validations<br> ✔️ Skilled in Bootstrap 5– Grid system, responsive design, navbars, buttons, and utility classes
+👋 About Me<br><br>🔭 I’m currently working as a Software Intern at X-workz, specializing in Enterprise Web Application Development.  <br>📫 Reach me at: [ailhreshikesh@gmail.com](mailto:ailhreshikesh@gmail.com)<br><br>Portfolio https://hreshikesh.github.io/Portfolio/  <br><br>----------<br><br> 🚀 Tech Summary<br><br><h2 align="center">🚀 Tech Arsenal 🚀</h2>
+
+<p align="center">
+  <b>⚡ Backend Wizardry ⚡</b>
+</p>
+
+🔹 <b>Core Java:</b> OOPs ⚙️ | Collections 📦 | Streams 🌊 | Lambdas ➡️  
+🛠️ <b>JDBC:</b> DB Connectivity 🔗 | CRUD ⚡ | Query Mastery 🧾  
+🏛️ <b>Servlets & JSP:</b> MVC Architecture 🏗️ | DTO / Service / Repo Flow 🔄  
+🌱 <b>Spring Framework:</b> Container 🌍 | Bean Lifecycle 🔄 | Config Magic ✨  
+🗄️ <b>JPA:</b> ORM 🎭 | CRUD via Annotations 🖋️ | Relational Harmony 🔗  
+✂️ <b>Lombok:</b> Boilerplate Slayer ⚔️ | Clean Code 🧹  
+
+---
+
+<p align="center">
+  <b>🌐 Frontend Craftsmanship 🌐</b>
+</p>
+
+🎨 <b>HTML / CSS / JS:</b> Structure 🏗️ | Styling 💅 | Validations 🔐  
+📱 <b>Bootstrap 5:</b> Grid 🗃️ | Responsive 📲 | Navbars 🔝 | Utilities 🎛️  
+
+---
+
+<p align="center">
+   <i>"I don’t just code, I architect experiences — from backend engines to frontend canvases."</i>
+</p>
+
 
 
  🌐 Socials:
