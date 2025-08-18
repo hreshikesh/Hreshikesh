@@ -21,20 +21,20 @@
 
 ### ⫸ ⫸ ⫸   𝙅𝘼𝙑𝘼   &   𝘽𝘼𝘾𝙆𝙀𝙉𝘿   ⫷ ⫷ ⫷  
 
-- ⚡ **Core Java** ⤳ OOPs ⋄ Collections ⋄ Streams ⋄ Lambda  
-- ⚡ **JDBC** ⤳ DB Connectivity ⋄ CRUD ⋄ Query Handling  
-- ⚡ **Servlets + JSP** ⤳ MVC Flow ⋄ DTO ⋄ Service ⋄ Repository  
-- ⚡ **Spring Framework** ⤳ IoC ⋄ Bean Lifecycle ⋄ Component Config  
-- ⚡ **JPA (Hibernate)** ⤳ Entity Mapping ⋄ Annotations ⋄ CRUD  
-- ⚡ **Lombok** ⤳ Reduce Boilerplate ⋄ Clean Code  
-- ⚡ **MySQL** ⤳ Schema Design ⋄ CRUD ⋄ Filtering & Grouping  
+⚡ **Core Java** ⤳ OOPs ⋄ Collections ⋄ Streams ⋄ Lambda  
+⚡ **JDBC** ⤳ DB Connectivity ⋄ CRUD ⋄ Query Handling  
+⚡ **Servlets + JSP** ⤳ MVC Flow ⋄ DTO ⋄ Service ⋄ Repository  
+⚡ **Spring Framework** ⤳ IoC ⋄ Bean Lifecycle ⋄ Component Config  
+⚡ **JPA (Hibernate)** ⤳ Entity Mapping ⋄ Annotations ⋄ CRUD  
+⚡ **Lombok** ⤳ Reduce Boilerplate ⋄ Clean Code  
+⚡ **MySQL** ⤳ Schema Design ⋄ CRUD ⋄ Filtering & Grouping  
 
 ---
 
 ### ⫸ ⫸ ⫸   𝙁𝙍𝙊𝙉𝙏𝙀𝙉𝘿   𝘿𝙀𝙑   ⫷ ⫷ ⫷  
 
-- 🌐 **HTML • CSS • JavaScript** ⤳ Structure ⋄ Styling ⋄ Validations  
-- 🌐 **Bootstrap 5** ⤳ Grid ⋄ Responsive ⋄ Navbars ⋄ Utilities
+ 🌐 **HTML • CSS • JavaScript** ⤳ Structure ⋄ Styling ⋄ Validations  
+ 🌐 **Bootstrap 5** ⤳ Grid ⋄ Responsive ⋄ Navbars ⋄ Utilities
 
 
 ## 🌍 Connect with Me  
