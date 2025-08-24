@@ -1,21 +1,17 @@
 <div align="center">
-
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" width="100%" alt="Banner"/>
-
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Hreshikesha+K+👋;Java+Web+Developer+💻;Welcome+to+my+GitHub+Profile!">
-</p>
-
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=275&color=43265D&text=Hreshikesha%20K&reversal=false&textBg=false&fontColor=A499B0&fontAlign=52&fontAlignY=48&animation=scaleIn&desc=-Java%20FullStack%20+Developer&descSize=18&descAlignY=65)
 </div>
 
----
-
 ## 👨‍💻 About Me  
-- 🔭 Currently working as a **Software Intern** at **X-workz**, specializing in *Enterprise Web Application Development*.  
-- 📬 Reach me at: **[ailhreshikesh@gmail.com](mailto:ailhreshikesh@gmail.com)**  
-- 🌐 Portfolio: [Hreshikesha K Portfolio](https://hreshikesh.github.io/Portfolio/)  
 
----
+💼 **Software Intern** @ **X-workz**  
+   *Specializing in Enterprise Web Application Development*  
+
+ [![Gmail Badge](https://img.shields.io/badge/-ailhreshikesh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ailhreshikesh@gmail.com) 
+ 
+[![Portfolio Badge](https://img.shields.io/badge/-Hreshikesha%20K%20Portfolio-000000?style=flat&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
+
 
 ## 🚀 Tech Summary  
 
