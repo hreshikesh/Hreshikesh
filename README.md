@@ -8,15 +8,24 @@
 💼 **Software Intern** @ **X-workz**  
 ✨ Passionate about **Enterprise Web Application Development**  
 
-📌 Quick Links:  
 
-[![Email](https://img.shields.io/badge/📧%20Email-ailhreshikesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ailhreshikesh@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Hreshikesha%20K-000000?style=flat-square&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
-[![Resume](https://img.shields.io/badge/📄%20Resume-View%20Here-0A66C2?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QGkrjt4s3oWEC5Cc6Cu3ArFq2rz75lu6/view?usp=sharing)  
- 
- 
+<p align="center" style="margin:5px">
 
+  <a href="mailto:ailhreshikesh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3c3c&color=ff3c3c&logoWidth=30" />
+  </a>
+  &nbsp;&nbsp;
 
+  <a href="https://hreshikesh.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f8fff&color=1f8fff&logoWidth=30" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://drive.google.com/file/d/1QGkrjt4s3oWEC5Cc6Cu3ArFq2rz75lu6/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-0d1117?style=for-the-badge&logo=readme&logoColor=white&labelColor=00c853&color=00c853&logoWidth=30" />
+  </a>
+
+</p>
 
 
 ## 🚀 Tech Summary  
