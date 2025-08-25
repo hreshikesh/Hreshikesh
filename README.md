@@ -10,7 +10,10 @@
 
  [![Gmail Badge](https://img.shields.io/badge/-ailhreshikesh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ailhreshikesh@gmail.com) 
  
-[![Portfolio Badge](https://img.shields.io/badge/-Hreshikesha%20K%20Portfolio-000000?style=flat&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
+
+[![Resume Badge](https://img.shields.io/badge/-My%20Resume-0A66C2?style=flat&logo=readthedocs&logoColor=white)](https://your-resume-link-here)
+
 
 
 ## 🚀 Tech Summary  
