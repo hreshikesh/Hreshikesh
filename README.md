@@ -6,13 +6,16 @@
 ## 👨‍💻 About Me  
 
 💼 **Software Intern** @ **X-workz**  
-   *Specializing in Enterprise Web Application Development*  
+✨ Passionate about **Enterprise Web Application Development**  
 
- [![Gmail Badge](https://img.shields.io/badge/-ailhreshikesh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ailhreshikesh@gmail.com) 
+📌 Quick Links:  
+
+[![Email](https://img.shields.io/badge/📧%20Email-ailhreshikesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ailhreshikesh@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Hreshikesha%20K-000000?style=flat-square&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
+[![Resume](https://img.shields.io/badge/📄%20Resume-View%20Here-0A66C2?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1QGkrjt4s3oWEC5Cc6Cu3ArFq2rz75lu6/view?usp=sharing)  
  
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://hreshikesh.github.io/Portfolio/)  
+ 
 
-[![Resume Badge](https://img.shields.io/badge/-My%20Resume-0A66C2?style=flat&logo=readthedocs&logoColor=white)](https://your-resume-link-here)
 
 
 
