@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me  
 
-💼 **Software Intern** @ **X-workz**  
+💼 **Software Intern** @ **X-workz**,Bangalore 
 ✨ Passionate about **Enterprise Web Application Development**  
 
 
