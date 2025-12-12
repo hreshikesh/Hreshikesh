@@ -87,11 +87,15 @@ Passionate software intern with hands-on experience in **Java backend**, **Sprin
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hreshikesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hreshikesh&theme=radical&hide_border=false" height="160px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hreshikesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreshikesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-kappa.vercel.app?user=hreshikesh" alt="GitHub Streak" /></a>
+
+  <br>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hreshikesh&theme=radical&hide_border=false&layout=compact" height="160px"/>
 </div>
+
 
 ---
 
