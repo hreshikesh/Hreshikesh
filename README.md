@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hreshikesha K</h1>
-  <p><strong>Java Full Stack Developer | Software Intern @ X-workz, Bangalore</strong></p>
+  <p><strong>Java Full Stack Developer | Software Developer Intern @ X-workz, Bangalore</strong></p>
 </div>
 
 ---
