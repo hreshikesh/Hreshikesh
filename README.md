@@ -24,7 +24,7 @@ Passionate software intern with hands-on experience in **Java backend**, **Sprin
 ### Frontend
 - **HTML / CSS / JavaScript** – Structure, styling, validations  
 - **AJAX** – Asynchronous requests  
-- **React** – Component-based UI, state management  
+- **React** – Component-based UI, state management ,Hooks,Routing
 - **Bootstrap 5 & Tailwind CSS** – Responsive layouts, utilities  
 
 ---
