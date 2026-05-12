@@ -76,7 +76,7 @@ Passionate software intern with hands-on experience in **Java backend**, **Sprin
   <img src="https://img.shields.io/badge/AJAX-%23007396?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   
-  <!-- Tools -->
+  
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
